@@ -1,0 +1,29 @@
+body {
+background: #196dff;
+text-align: center;
+}
+#main {
+width: 1000px;
+height: 600px;
+background: #ffab19;
+margin: 25px auto;
+border: solid 2px #ff3819;
+padding: 10px;
+}
+h1 {
+text-align: center;
+font-family:"Times New Roman";
+font: 24pt
+color: #ff3819;
+}
+hr{
+height: 2px;
+color: #ff3819;
+}
+p{
+	font-family:"Calibri";
+	font-size: 12pt;
+	text-align: left;
+	text-indent: 48px;
+	color: 2f2d2d
+	
